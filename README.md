@@ -1,2 +1,3 @@
 # GHW
-Welcome to my second attemot of creating a project :D
+Welcome to my second attempt of creating a project :D
+hopefully this goes well...
